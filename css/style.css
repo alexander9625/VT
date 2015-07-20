@@ -1,0 +1,45 @@
+	.carousel-inner img {
+		margin-left:auto; margin-right:auto; 
+	}
+	
+	.body-content {
+		background-color: #e7e7e7;
+
+		border: 1px solid #cccccc;
+		display: inline-block;
+		width: 100%;
+	}
+	
+	.rounded-container {
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+	
+	.glyphicon {
+		margin-right:4px !important; /*override*/
+	}
+
+	.pagination .glyphicon {
+		margin-right:0px !important; /*override*/
+	}
+
+	.pagination a {
+		color:#555;
+	}
+
+	.panel ul {
+		padding:0px;
+		margin:0px;
+		list-style:none;
+	}
+
+	.news-item {
+		padding:4px 4px;
+		margin:0px;
+		border-bottom:1px dotted #555; 
+	}
+	
+	.homepage-divider {
+		margin-top:15px;
+	}
